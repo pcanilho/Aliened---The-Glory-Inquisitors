@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Save Game</comment>
+<entry key="Player">Bot 1</entry>
+<entry key="Inv_Kia">0</entry>
+<entry key="Score">100</entry>
+<entry key="Player_level">0</entry>
+<entry key="Resources">1000</entry>
+<entry key="Player_id">0</entry>
+</properties>

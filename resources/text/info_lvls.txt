@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+Menu principal
+____________________________
+
+Botão		-	Acção
+
+Novo jogo		-	Inicia um novo jogo
+Carregar jogo	-		Carrega um jogo previamente guardado
+Editor de mapas	-	Inicia o editor de mapas
+Sair		-	Sair da aplicação
+
+
+
+
+
+
+Interface do jogador 
+____________________________
+
+
+Botão		-	Acção
+
+Rotativo		-	Desliga/liga os tooltips das torres criadas
+Menu		-	Entra no menu dentro do jogo
+Painel superior	-	Desliga/liga som dos invasores e torres
+Painel inferior 	- 	Desliga/liga a música
+
+
+
+
+
+Interface do editor de mapas
+____________________________
+
+Botão	-		Acção
+
+Sair	-		Sair do editor de mapas e voltar ao menu principal
+Gravar	-		Gravar o mapa criado
+
+
+
+
+
+Menu dentro do jogo
+____________________________
+
+Botão	-		Acção
+
+Voltar	-		Resumir o jogo
+Menu	-		Voltar ao menu principal
+Salvar	-		Grava o jogo no nível presente
+Lêr	-		Carrega um jogo previamente gravado
+Sair	-		Sai do jogo
+
+
+
+Controlos
+____________________________
+
+
+Tecla	-	Acção
+
+1	-	Selecciona Torre 1
+2	-	Selecciona Torre 2
+3	-	Selecciona Torre 3
+Q	-	Sair do jogo
+Escape	-	Sair/Entrar no menu
+
+
